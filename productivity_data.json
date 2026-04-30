@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": "25ad0dce",
+      "title": "build mvc project",
+      "priority": "MEDIUM",
+      "category": "learning",
+      "estimated_minutes": 30,
+      "created_at": "2026-04-23T10:52:45.300653",
+      "completed_at": "2026-04-23T10:55:30.714432",
+      "actual_minutes": 30,
+      "notes": ""
+    },
+    {
+      "id": "cc4f9f05",
+      "title": "learning dsa",
+      "priority": "HIGH",
+      "category": "learning",
+      "estimated_minutes": 120,
+      "created_at": "2026-04-23T10:54:12.912605",
+      "completed_at": "2026-04-23T10:55:27.661554",
+      "actual_minutes": 120,
+      "notes": ""
+    }
+  ],
+  "focus_sessions": [
+    {
+      "id": "8f0dbf0c",
+      "task_id": null,
+      "duration_minutes": 60,
+      "session_type": "work",
+      "started_at": "2026-04-23T10:51:06.856738",
+      "completed": false,
+      "interruptions": 0,
+      "quality_score": 3
+    },
+    {
+      "id": "d15fb017",
+      "task_id": null,
+      "duration_minutes": 60,
+      "session_type": "work",
+      "started_at": "2026-04-23T10:51:21.425255",
+      "completed": true,
+      "interruptions": 0,
+      "quality_score": 3
+    }
+  ],
+  "habits": [
+    "30mins book reading daily  "
+  ],
+  "habit_entries": [],
+  "energy_logs": [],
+  "settings": {
+    "work_duration": 60,
+    "short_break": 5,
+    "long_break": 15,
+    "sessions_before_long_break": 4,
+    "daily_goal_hours": 6
+  }
+}
